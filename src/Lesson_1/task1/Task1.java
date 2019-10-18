@@ -1,9 +1,8 @@
-package Lesson_1;
+package Lesson_1.task1;
 
 import java.util.HashMap;
-import java.util.Map;
 
-public class Task1 {
+public class  Task1 {
     public static void main(String[] args) {
         //String
         String[] arrStr = {"First", "Second", "Third", "Fourth"};

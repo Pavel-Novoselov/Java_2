@@ -1,4 +1,4 @@
-package Lesson_1;
+package Lesson_1.task1;
 
 public class ChangeElements<T> {
     private T[] array;
