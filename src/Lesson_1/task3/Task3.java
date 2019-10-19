@@ -44,7 +44,7 @@ public class Task3 {
 
         moveToAnotherBox(box3, box4);
         box4.info();
-        
+
         //сравниваем коробки по весу
         System.out.println("box1 has the same weight than box2? "+box1.compare(box2));
         System.out.println("box1 has the same weight than box3? "+box1.compare(box3));
