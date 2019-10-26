@@ -1,4 +1,4 @@
-package main.java.task5;
+package main.java.Lesson_3.task5;
 
 import java.io.*;
 import java.util.ArrayList;
