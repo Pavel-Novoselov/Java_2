@@ -1,0 +1,6 @@
+фев 17, 2019 8:58:35 PM java.util.logging.LogManager$RootLogger log
+SEVERE: Error1
+фев 17, 2019 8:58:35 PM java.util.logging.LogManager$RootLogger log
+INFO: Hello World
+фев 17, 2019 8:58:35 PM java.util.logging.LogManager$RootLogger log
+CONFIG: Error3
