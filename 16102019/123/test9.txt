@@ -1,0 +1,7 @@
+Start of file test9.txt:
+Hello Java!
+Всем привет!
+How are you?
+конец,
+end,
+end of file test9.txt.
